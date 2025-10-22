@@ -4,6 +4,30 @@ This document defines typical roles and responsibilities used in OctoAcme projec
 
 ---
 
+## Scrum Master
+
+### Role Summary
+Facilitates agile ceremonies, removes impediments, and coaches the team in agile practices.
+
+### Responsibilities
+- Facilitate daily standups, sprint planning, reviews, and retrospectives
+- Remove blockers for the team
+- Coach on agile best practices
+
+### Goals
+- Ensure smooth sprint execution
+- Foster continuous improvement
+
+### Typical Communication
+- Daily with Developers and Project Manager
+- Regular updates to Product Manager
+
+### Key Interactions
+- Works with Project Manager to resolve cross-team issues
+- Communicates sprint progress to Stakeholders
+
+---
+
 ## Developers
 
 ### Role Summary
